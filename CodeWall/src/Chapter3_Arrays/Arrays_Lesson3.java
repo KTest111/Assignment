@@ -10,7 +10,6 @@ public class Arrays_Lesson3 {
 
         int numbers[][] = {{1,2},{1,2,3},{1,2,3,4},{1,2,3,4,5}};
         numbers[0] = new int[1];
-        numbers[1] = new int[2];
         System.out.println(Arrays.toString(numbers));
 
     }

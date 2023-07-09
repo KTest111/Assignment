@@ -27,6 +27,7 @@ public class Arrays {
 
         for (int i = 0; i < numbers1.length; i++) {
             System.out.print(numbers1[i] + " ");
+
         }
         System.out.println();
 
@@ -36,8 +37,6 @@ public class Arrays {
             }
         }
     }
-
-
 }
 
 
