@@ -1,7 +1,5 @@
 package Module_2.chapter4.oop.Lesson_1;
 
-import chapter1.basic_1.Lesson1;
-
 
 public class Lesson2_call {
     public static void main(String[] args) {

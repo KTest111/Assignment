@@ -1,4 +1,4 @@
-package Module_2.chapter4.oop.Lesson_1;
+package Module_2;
 
 public class Lesson11_AccessModifier {
     private int bill = 5000;
