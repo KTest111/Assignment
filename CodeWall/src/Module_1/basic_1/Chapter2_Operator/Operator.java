@@ -1,4 +1,4 @@
-package chapter1.basic_1.Chapter2_Operator;
+package Module_1.basic_1.Chapter2_Operator;
 
 public class Operator {
     public static void main(String[] args) {

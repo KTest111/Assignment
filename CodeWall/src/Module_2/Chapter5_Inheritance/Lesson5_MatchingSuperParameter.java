@@ -4,6 +4,7 @@ public class Lesson5_MatchingSuperParameter {
     public static void main(String[] args) {
 Child4 child4 = new Child4(3);
 Child4 child41 = new Child4(5);
+Parent4 parent4 = new Parent4(4);
     }
 }
 class Parent4{

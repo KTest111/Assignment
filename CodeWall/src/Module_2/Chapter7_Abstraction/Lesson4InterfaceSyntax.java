@@ -1,22 +1,16 @@
 package Module_2.Chapter7_Abstraction;
 
-package module2.chapter7abstraction;
-
-
 interface Testable{
 
     //abstract method
     void cal();
 
-
     //instance method
     default void eat(){}
-
 
     //static method
     static void drink(){}
 }
-
 public class Lesson4InterfaceSyntax {
     public static void main(String[] args) {
         Testable testable = new Testable() {

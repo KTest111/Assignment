@@ -1,4 +1,4 @@
-package Chapter3_Arrays;
+package Module_1.basic_1.Chapter3_Arrays;
 
 import java.util.Arrays;
 

@@ -1,4 +1,4 @@
-package chapter1.basic_1;
+package Module_1.basic_1;
 
 public class lesson3_example2 {
     public static void main(String[] args) {

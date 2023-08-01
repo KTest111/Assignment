@@ -1,10 +1,28 @@
-package chapter1.basic_1;
+package Module_1.basic_1;
+
+import java.util.Scanner;
 
 public class revision {
     public static void main(String[] args) {
-       boolean result = 3 > 4;
-       boolean result1 = 5 > 4 || 5 > 6;
-        System.out.println(result1);
+        Scanner sc = new Scanner(System.in);
+     int[]num = new int[10];
+        for (int i = 0; i < 10; i++) {
+            num[i]=sc.nextInt();
+
+
+        }
+        for (int i = 0; i < 10; i++) {
+            System.out.print("[" + num[i] + "]");
+        }
+
+
+
+        }
+
+
+
+
 
     }
-}
+
+

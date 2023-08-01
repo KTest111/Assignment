@@ -1,4 +1,4 @@
-package Chapter3_Arrays;
+package Module_1.basic_1.Chapter3_Arrays;
 
 import java.util.Random;
 import java.util.Scanner;
@@ -13,9 +13,7 @@ public class Userinput {
             Scanner scanner = new Scanner(System.in);
             int userInput = scanner.nextInt();
             System.out.println(userInput);
-            Random random = new Random();
-            int a = random.nextInt(100);
-            System.out.println(a);
+
         }
     }
 }
