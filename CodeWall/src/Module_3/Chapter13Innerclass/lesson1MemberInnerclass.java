@@ -1,4 +1,4 @@
-package Module_3;
+package Module_3.Chapter13Innerclass;
 
 public class lesson1MemberInnerclass {
     private int a = 20;
@@ -11,8 +11,6 @@ public class lesson1MemberInnerclass {
 
     public static void main(String[] args) {
         lesson1MemberInnerclass obj = new lesson1MemberInnerclass();
-        System.out.println(obj.a);
-
         inner inObject = obj.new inner();
         inObject.show();
     }

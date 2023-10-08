@@ -4,7 +4,7 @@ import java.util.Random;
 
 public class RandomEx {
     public static void main(String[] args) {
-        System.out.println("Enter A Number");
+        System.out.println("Your number is");
         Random random = new Random();
         int a = random.nextInt(100);
         System.out.println(a);

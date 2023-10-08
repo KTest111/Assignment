@@ -1,4 +1,4 @@
-package Module_3;
+package Module_3.Chapter13Innerclass;
 
 public class Lesson3StaticNestedclass {
     private static int a = 5;

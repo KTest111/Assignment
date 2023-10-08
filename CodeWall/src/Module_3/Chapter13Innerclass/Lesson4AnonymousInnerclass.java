@@ -1,12 +1,12 @@
-package Module_3;
+/*package Module_3.Chapter13Innerclass;
 
-/*public class Lesson4AnonymousInnerclass {
-   /* static class A {
+public class Lesson4AnonymousInnerclass {
+    static class A {
         void show(){
             System.out.println(A);
         }
     }
-  /*  public static void main(String[] args) {
+   public static void main(String[] args) {
         A objA = new A();
         {
             void show{

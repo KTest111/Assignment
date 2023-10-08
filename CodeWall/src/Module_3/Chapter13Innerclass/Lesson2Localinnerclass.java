@@ -1,4 +1,4 @@
-package Module_3;
+package Module_3.Chapter13Innerclass;
 public class Lesson2Localinnerclass {
     private int abc = 9;
     void sum(){

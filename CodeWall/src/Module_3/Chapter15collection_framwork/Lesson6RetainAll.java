@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-public class Lesson5Retain {
+public class Lesson6RetainAll {
     public static void main(String[] args) {
         List<Integer> integers = new ArrayList<>();
         integers.add(3);

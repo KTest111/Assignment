@@ -2,9 +2,8 @@ package Module_3.Part5MapIntro;
 
 import java.util.HashMap;
 import java.util.Map;
-import java.util.HashMap;
-import java.util.Map;
-public class MapIntro {
+
+
     /**
             * Java HashMap class implements the Map interface which allows us to store key and value pair, where keys should be unique. If you try to insert the duplicate key, it will replace the element of the corresponding key. It is easy to perform operations using the key index like update, deletion, etc. HashMap class is found in the java.util package.
             *
@@ -67,4 +66,4 @@ public class MapIntro {
         }
     }
 
-}
+

@@ -1,10 +1,10 @@
-package Part2.Steam;
+package Module_3.Part2Steam;
 
 import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.List;
-import java.util.stream.Stream;
- class Person {
+
+class Person {
     String name;
     int age;
 

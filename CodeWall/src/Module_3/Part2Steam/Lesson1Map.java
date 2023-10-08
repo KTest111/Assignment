@@ -1,12 +1,7 @@
-package Part2.Steam;
+package Module_3.Part2Steam;
 
 import java.util.Arrays;
-import java.util.Collections;
-import java.util.Comparator;
 import java.util.List;
-import java.util.function.Function;
-import java.util.stream.Collectors;
-import java.util.stream.Stream;
 
 public class Lesson1Map {
     public static void main(String[] args) {

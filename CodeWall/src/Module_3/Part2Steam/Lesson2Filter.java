@@ -1,10 +1,7 @@
-package Part2.Steam;
+package Module_3.Part2Steam;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
-import java.util.function.Predicate;
-import java.util.stream.Stream;
 
 public class Lesson2Filter {
     public static void main(String[] args) {
